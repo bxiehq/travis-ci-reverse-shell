@@ -18,7 +18,7 @@
 #   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-IP=2001:1418:100:250::2
+IP=35.241.94.208
 PORT=12345
 
 function dots {
